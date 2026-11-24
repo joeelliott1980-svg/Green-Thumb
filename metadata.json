@@ -1,0 +1,6 @@
+{
+  "name": "Green Thumb",
+  "description": "Smart plant identification, disease diagnosis, and care management app with local plant collections, growth tracking, and watering reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
